@@ -1,0 +1,2 @@
+#!/bin/bash
+pwd echo -e "\n" echo $HOME echo -e "\n" source ./0-bring_me_home echo -e "\n" pwd echo -e "\n"
